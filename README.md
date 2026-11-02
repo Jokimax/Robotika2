@@ -87,4 +87,4 @@ void timerTick() {
 
 ## Schema
 
-!(schematic.svg)
+![](schematic.svg)
