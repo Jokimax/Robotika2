@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 900" font-family="Arial, Helvetica, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker></defs>
+<rect width="1260" height="900" fill="#fff"/>
+<g stroke="#222" stroke-width="1.6" fill="none">
+<rect x="300" y="420" width="540" height="160" rx="8" fill="#e3eef7" stroke="#2b6ca3" stroke-width="2"/>
+<rect x="395" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="404" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 404 432)">AREF</text>
+<rect x="419" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="428" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 428 432)">GND</text>
+<rect x="443" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="452" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 452 432)">13</text>
+<rect x="467" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="476" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 476 432)">12</text>
+<rect x="491" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="500" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 500 432)">11</text>
+<rect x="515" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="524" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 524 432)">10</text>
+<rect x="539" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="548" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 548 432)">9</text>
+<rect x="563" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="572" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 572 432)">8</text>
+<rect x="605" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="614" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 614 432)">7</text>
+<rect x="629" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="638" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 638 432)">6</text>
+<rect x="653" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="662" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 662 432)">5</text>
+<rect x="677" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="686" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 686 432)">4</text>
+<rect x="701" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="710" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 710 432)">3</text>
+<rect x="725" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="734" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 734 432)">2</text>
+<rect x="749" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="758" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 758 432)">1</text>
+<rect x="773" y="415" width="10" height="10" fill="#333" stroke="none"/>
+<text x="782" y="432" font-size="10" text-anchor="end" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 782 432)">0</text>
+<rect x="465" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="474" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 474 568)">IOREF</text>
+<rect x="489" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="498" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 498 568)">RESET</text>
+<rect x="513" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="522" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 522 568)">3.3V</text>
+<rect x="537" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="546" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 546 568)">5V</text>
+<rect x="561" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="570" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 570 568)">GND</text>
+<rect x="585" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="594" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 594 568)">GND</text>
+<rect x="609" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="618" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 618 568)">Vin</text>
+<rect x="675" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="684" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 684 568)">A0</text>
+<rect x="699" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="708" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 708 568)">A1</text>
+<rect x="723" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="732" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 732 568)">A2</text>
+<rect x="747" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="756" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 756 568)">A3</text>
+<rect x="771" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="780" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 780 568)">A4</text>
+<rect x="795" y="575" width="10" height="10" fill="#333" stroke="none"/>
+<text x="804" y="568" font-size="10" text-anchor="start" font-weight="normal" fill="#222" stroke="none" transform="rotate(-90 804 568)">A5</text>
+<text x="370" y="506" font-size="16" text-anchor="middle" font-weight="bold" fill="#1d4f7a" stroke="none">Arduino Uno</text>
+<rect x="50" y="60" width="420" height="70" rx="4" fill="#eef6e8" stroke="#3a7d1e" stroke-width="2"/>
+<text x="260" y="90" font-size="14" text-anchor="middle" font-weight="bold" fill="#2d6316" stroke="none">LCD 16×2</text>
+<text x="90" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">VDD</text>
+<text x="130" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">VSS</text>
+<text x="165" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">RW</text>
+<text x="200" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">V0</text>
+<text x="250" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">RS</text>
+<text x="285" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">E</text>
+<text x="320" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">D7</text>
+<text x="355" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">D6</text>
+<text x="390" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">D5</text>
+<text x="425" y="124" font-size="10" text-anchor="middle" font-weight="normal" fill="#222" stroke="none">D4</text>
+<line x1="130" y1="130" x2="130" y2="180"/>
+<line x1="165" y1="130" x2="165" y2="180"/>
+<line x1="200" y1="130" x2="200" y2="140"/>
+<rect x="193" y="142" width="14" height="24" fill="#fff"/>
+<line x1="200" y1="166" x2="200" y2="180"/>
+<line x1="130" y1="180" x2="200" y2="180"/>
+<circle cx="165" cy="180" r="3.5" fill="#222" stroke="none"/>
+<circle cx="200" cy="180" r="3.5" fill="#222" stroke="none"/>
+<polyline points="200,180 200,332 424,332 424,415"/>
+<polyline points="425,130 425,200 658,200 658,415"/>
+<polyline points="390,130 390,222 634,222 634,415"/>
+<polyline points="355,130 355,244 610,244 610,415"/>
+<polyline points="320,130 320,266 568,266 568,415"/>
+<polyline points="285,130 285,288 496,288 496,415"/>
+<polyline points="250,130 250,310 472,310 472,415"/>
+<polyline points="90,130 90,850 1080,850" stroke="#c62828"/>
+<line x1="542" y1="585" x2="542" y2="850" stroke="#c62828"/>
+<circle cx="542" cy="850" r="3.5" fill="#222" stroke="none"/>
+<path d="M566,585 L566,843 A7,7 0 0 1 566,857 L566,880"/>
+<circle cx="566" cy="880" r="3.5" fill="#222" stroke="none"/>
+<line x1="566" y1="880" x2="1200" y2="880"/>
+<line x1="1080" y1="260" x2="1080" y2="850" stroke="#c62828"/>
+<circle cx="1080" cy="850" r="3.5" fill="#222" stroke="none"/>
+<line x1="1200" y1="222" x2="1200" y2="880"/>
+<circle cx="1200" cy="880" r="3.5" fill="#222" stroke="none"/>
+<polyline points="682,415 682,260 880,260"/>
+<circle cx="880" cy="260" r="3.5" fill="#222" stroke="none"/>
+<line x1="880" y1="260" x2="941" y2="260"/>
+<circle cx="944" cy="260" r="3" fill="#fff"/><circle cx="986" cy="260" r="3" fill="#fff"/>
+<line x1="940" y1="250" x2="990" y2="250"/>
+<line x1="965" y1="250" x2="965" y2="242"/>
+<line x1="957" y1="242" x2="973" y2="242"/>
+<text x="965" y="236" font-size="11" text-anchor="middle" font-weight="bold" fill="#222" stroke="none">S3</text>
+<line x1="989" y1="260" x2="1080" y2="260" stroke="#c62828"/>
+<circle cx="1080" cy="260" r="3.5" fill="#222" stroke="none"/>
+<line x1="880" y1="260" x2="880" y2="254"/>
+<rect x="873" y="230" width="14" height="24" fill="#fff"/>
+<line x1="880" y1="230" x2="880" y2="222"/>
+<line x1="880" y1="222" x2="1200" y2="222"/>
+<circle cx="1200" cy="222" r="3.5" fill="#222" stroke="none"/>
+<polyline points="706,415 706,320 880,320"/>
+<circle cx="880" cy="320" r="3.5" fill="#222" stroke="none"/>
+<line x1="880" y1="320" x2="941" y2="320"/>
+<circle cx="944" cy="320" r="3" fill="#fff"/><circle cx="986" cy="320" r="3" fill="#fff"/>
+<line x1="940" y1="310" x2="990" y2="310"/>
+<line x1="965" y1="310" x2="965" y2="302"/>
+<line x1="957" y1="302" x2="973" y2="302"/>
+<text x="965" y="296" font-size="11" text-anchor="middle" font-weight="bold" fill="#222" stroke="none">S2</text>
+<line x1="989" y1="320" x2="1080" y2="320" stroke="#c62828"/>
+<circle cx="1080" cy="320" r="3.5" fill="#222" stroke="none"/>
+<line x1="880" y1="320" x2="880" y2="314"/>
+<rect x="873" y="290" width="14" height="24" fill="#fff"/>
+<line x1="880" y1="290" x2="880" y2="282"/>
+<path d="M880,282 L1073,282 A7,7 0 0 1 1087,282 L1200,282"/>
+<circle cx="1200" cy="282" r="3.5" fill="#222" stroke="none"/>
+<polyline points="730,415 730,380 880,380"/>
+<circle cx="880" cy="380" r="3.5" fill="#222" stroke="none"/>
+<line x1="880" y1="380" x2="941" y2="380"/>
+<circle cx="944" cy="380" r="3" fill="#fff"/><circle cx="986" cy="380" r="3" fill="#fff"/>
+<line x1="940" y1="370" x2="990" y2="370"/>
+<line x1="965" y1="370" x2="965" y2="362"/>
+<line x1="957" y1="362" x2="973" y2="362"/>
+<text x="965" y="356" font-size="11" text-anchor="middle" font-weight="bold" fill="#222" stroke="none">S1</text>
+<line x1="989" y1="380" x2="1080" y2="380" stroke="#c62828"/>
+<circle cx="1080" cy="380" r="3.5" fill="#222" stroke="none"/>
+<line x1="880" y1="380" x2="880" y2="374"/>
+<rect x="873" y="350" width="14" height="24" fill="#fff"/>
+<line x1="880" y1="350" x2="880" y2="342"/>
+<path d="M880,342 L1073,342 A7,7 0 0 1 1087,342 L1200,342"/>
+<circle cx="1200" cy="342" r="3.5" fill="#222" stroke="none"/>
+<polyline points="728,585 728,620 900,620"/>
+<circle cx="900" cy="620" r="3.5" fill="#222" stroke="none"/>
+<line x1="900" y1="620" x2="1080" y2="620"/>
+<circle cx="1080" cy="620" r="3.5" fill="#222" stroke="none"/>
+<rect x="925" y="612" width="50" height="16" fill="#fff" stroke="none"/>
+<path d="M925,620 L929,614 L935,626 L941,614 L947,626 L953,614 L959,626 L965,614 L971,626 L975,620"/>
+<line x1="990" y1="592" x2="970" y2="610" marker-end="url(#ah)" stroke-width="1.3"/>
+<line x1="1002" y1="592" x2="982" y2="610" marker-end="url(#ah)" stroke-width="1.3"/>
+<text x="950" y="640" font-size="11" text-anchor="middle" font-weight="bold" fill="#222" stroke="none">LDR3</text>
+<line x1="900" y1="620" x2="900" y2="626"/>
+<rect x="893" y="626" width="14" height="24" fill="#fff"/>
+<line x1="900" y1="650" x2="900" y2="658"/>
+<path d="M900,658 L1073,658 A7,7 0 0 1 1087,658 L1200,658"/>
+<circle cx="1200" cy="658" r="3.5" fill="#222" stroke="none"/>
+<polyline points="704,585 704,695 900,695"/>
+<circle cx="900" cy="695" r="3.5" fill="#222" stroke="none"/>
+<line x1="900" y1="695" x2="1080" y2="695"/>
+<circle cx="1080" cy="695" r="3.5" fill="#222" stroke="none"/>
+<rect x="925" y="687" width="50" height="16" fill="#fff" stroke="none"/>
+<path d="M925,695 L929,689 L935,701 L941,689 L947,701 L953,689 L959,701 L965,689 L971,701 L975,695"/>
+<line x1="990" y1="667" x2="970" y2="685" marker-end="url(#ah)" stroke-width="1.3"/>
+<line x1="1002" y1="667" x2="982" y2="685" marker-end="url(#ah)" stroke-width="1.3"/>
+<text x="950" y="715" font-size="11" text-anchor="middle" font-weight="bold" fill="#222" stroke="none">LDR2</text>
+<line x1="900" y1="695" x2="900" y2="701"/>
+<rect x="893" y="701" width="14" height="24" fill="#fff"/>
+<line x1="900" y1="725" x2="900" y2="733"/>
+<path d="M900,733 L1073,733 A7,7 0 0 1 1087,733 L1200,733"/>
+<circle cx="1200" cy="733" r="3.5" fill="#222" stroke="none"/>
+<polyline points="680,585 680,770 900,770"/>
+<circle cx="900" cy="770" r="3.5" fill="#222" stroke="none"/>
+<line x1="900" y1="770" x2="1080" y2="770"/>
+<circle cx="1080" cy="770" r="3.5" fill="#222" stroke="none"/>
+<rect x="925" y="762" width="50" height="16" fill="#fff" stroke="none"/>
+<path d="M925,770 L929,764 L935,776 L941,764 L947,776 L953,764 L959,776 L965,764 L971,776 L975,770"/>
+<line x1="990" y1="742" x2="970" y2="760" marker-end="url(#ah)" stroke-width="1.3"/>
+<line x1="1002" y1="742" x2="982" y2="760" marker-end="url(#ah)" stroke-width="1.3"/>
+<text x="950" y="790" font-size="11" text-anchor="middle" font-weight="bold" fill="#222" stroke="none">LDR1</text>
+<line x1="900" y1="770" x2="900" y2="776"/>
+<rect x="893" y="776" width="14" height="24" fill="#fff"/>
+<line x1="900" y1="800" x2="900" y2="808"/>
+<path d="M900,808 L1073,808 A7,7 0 0 1 1087,808 L1200,808"/>
+<circle cx="1200" cy="808" r="3.5" fill="#222" stroke="none"/>
+</g></svg>
